@@ -1,6 +1,6 @@
 # DINOISER: Diffused Conditional Sequence Learning by Manipulating Noises
 
-This repository contains the official implementation of paper [DINOISER: Diffused Conditional Sequence Learning by Manipulating Noises](https://arxiv.org/abs/2302.10025).
+This repository contains the official implementation of paper [DINOISER: Diffused Conditional Sequence Learning by Manipulating Noises (TACL & ACL2024 Oral)](https://arxiv.org/abs/2302.10025).
 
 ---
 ## Dependencies
@@ -97,10 +97,10 @@ Please check the scripts for more details.
 
 ## Citation
 ```
-@article{ye2023dinoiser,
+@article{ye2024dinoiser,
   title={DINOISER: Diffused Conditional Sequence Learning by Manipulating Noises},
   author={Ye, Jiasheng and Zheng, Zaixiang and Bao, Yu and Qian, Lihua and Wang, Mingxuan},
-  journal={arXiv preprint arXiv:2302.10025},
-  year={2023}
+  journal={Transaction of ACL},
+  year={2024}
 }
 ```
